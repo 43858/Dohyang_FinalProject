@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="1200.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kMart.kMartController">
+   <children>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="73.0" layoutY="100.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@10954329_1.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="103.0" layoutY="61.0" prefHeight="31.0" prefWidth="78.0" text="Kfood">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="298.0" layoutY="115.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@3.-Korean-Kimbap-500x500.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="72.0" layoutY="306.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@download.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="323.0" layoutY="310.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@korean-vegetable-dumplings-recipe-2118971-Hero-01-a40fe2d9cca5429eb793ffc475f2414b.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="82.0" layoutY="502.0" prefHeight="31.0" prefWidth="78.0" text="Drink">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="66.0" layoutY="551.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@f21262aace1ed9c7a365196924fe7729.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="353.0" layoutY="575.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@2cb1444a6331ae193b0306a0a9e3fff3.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="84.0" layoutY="786.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@istockphoto-458929953-1024x1024.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="342.0" layoutY="810.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@batch-upload_3ed3cdc6-8a46-4908-a069-3aba13b2168d.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="820.0" layoutY="99.0" prefHeight="31.0" prefWidth="114.0" text="Ice cream">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="687.0" layoutY="210.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@5d6fee703b00009605cd1bad.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="988.0" layoutY="206.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@482ea95f-5bc9-4555-ac67-582890be24a9.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="686.0" layoutY="416.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@download-1.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="170.0" fitWidth="255.0" layoutX="937.0" layoutY="420.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@f59d7561-0460-4e29-8c24-5b3c2daa1269.jpg" />
+         </image>
+      </ImageView>
+      <Button layoutX="732.0" layoutY="774.0" mnemonicParsing="false" onAction="#btnkmart" prefHeight="80.0" prefWidth="140.0" text="Kmart">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
